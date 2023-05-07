@@ -6,6 +6,7 @@ import Home from './screens/home';
 import Quiz from './screens/quiz';
 import Result from './screens/result';
 
+console.log('App.js is RUNNING');
 const App = () => {
   return (
     <NavigationContainer>
